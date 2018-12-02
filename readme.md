@@ -6,7 +6,7 @@
     
     -in order for messenger to work realtime you need to have a pusher acount and provide valid pusher info to the app in .env file</h3>
 
-<h3> Most of the front end code is taken with edits from these cool pages: </h3>
+<h3> Most of the pages layout is taken with edits from these cool pages: </h3>
 
 <big><strong>Friend Lists Layout: <a href="https://bootdey.com/snippets/view/friend-zone-user-list">https://bootdey.com/snippets/view/friend-zone-user-list</a></strong></big>
 
