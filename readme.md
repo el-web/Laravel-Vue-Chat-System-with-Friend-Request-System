@@ -10,6 +10,6 @@
 
 <big><strong>Friend Lists Layout: <a href="https://bootdey.com/snippets/view/friend-zone-user-list">https://bootdey.com/snippets/view/friend-zone-user-list</a></strong></big>
 
-<big><strong>profile Page Layout: <a href="https://codepen.io/anism/pen/znoJc">https://codepen.io/anism/pen/znoJc</a></strong></big>
+<big><strong>Profile Page Layout: <a href="https://codepen.io/anism/pen/znoJc">https://codepen.io/anism/pen/znoJc</a></strong></big>
 
 <big><strong>Chat Page Layout: <a href="https://codepen.io/drehimself/pen/KdXwxR">https://codepen.io/drehimself/pen/KdXwxR</a></strong></big>
